@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Light and Sound Memory Game
+    </h1>
+    <p>
+      Welcome to the Game!
+    </p>
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+    
+    <div id="gameButtonArea">
+      <button id = "button1" onclick="guess(1);hide1()" onmousedown="startTone(1)" onmouseup="stopTone()">
+      <img id = "pic1" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2020.13.37.png?v=1648610022486"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide1() {
+                var c = document.getElementById("pic1");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+      <button id = "button2" onclick="guess(2);hide2()" onmousedown="startTone(2)" onmouseup="stopTone()">
+      <img id = "pic2" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.10.01.png?v=1648613406078"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide2() {
+                var c = document.getElementById("pic2");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+      
+      <button id = "button3" onclick="guess(3);hide3()" onmousedown="startTone(3)" onmouseup="stopTone()">
+      <img id = "pic3" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.11.00.png?v=1648613675114"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide3() {
+                var c = document.getElementById("pic3");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+
+      <button id = "button4" onclick="guess(4);hide4()" onmousedown="startTone(4)" onmouseup="stopTone()">
+      <img id = "pic4" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.11.09.png?v=1648613678700"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide4() {
+                var c = document.getElementById("pic4");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+      <button id = "button5" onclick="guess(5);hide5()" onmousedown="startTone(5)" onmouseup="stopTone()">
+      <img id = "pic5" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.11.21.png?v=1648613681787"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide5() {
+                var c = document.getElementById("pic5");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+      <button id = "button6" onclick="guess(6);hide6()" onmousedown="startTone(6)" onmouseup="stopTone()">
+      <img id = "pic6" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.11.28.png?v=1648613684600"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide6() {
+                var c = document.getElementById("pic6");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+      <button id = "button7" onclick="guess(7);hide7()" onmousedown="startTone(7)" onmouseup="stopTone()">
+      <img id = "pic7" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.11.49.png?v=1648613687951"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide7() {
+                var c = document.getElementById("pic7");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+      <button id = "button8" onclick="guess(8);hide8()" onmousedown="startTone(8)" onmouseup="stopTone()">
+      <img id = "pic8" src="https://cdn.glitch.global/9b9c2e7d-56ff-4913-bac9-f3f77aa9f846/Screen%20Shot%202022-03-29%20at%2021.11.56.png?v=1648613690748"
+            style="visibility:hidden" width="200" height="200">
+            <script type="text/javascript">
+            function hide8() {
+                var c = document.getElementById("pic8");
+                c.setAttribute("style","visibility:visible") 
+                var delayInMilliseconds = 400; //1 second
+                setTimeout(function() {
+                  //your code to be executed after 1 second
+                  c.setAttribute("style","visibility:hidden")
+                }, delayInMilliseconds);
+              
+                setTimeOut()
+                
+            }
+            </script>
+      </button>
+    </div>  
+  </body>
+</html>
