@@ -12,24 +12,24 @@ Link to project: (https://glitch.com/edit/#!/fantastic-glen-newsprint?path=style
 
 The following **required** functionality is complete:
 
-* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [x] "Start" button toggles between "Start" and "Stop" when clicked. <br>
-* [&#x2705;] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* &#x2705; Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* &#x2705; "Start" button toggles between "Start" and "Stop" when clicked. <br>
+* &#x2705; Game buttons each light up and play a sound when clicked. 
+* &#x2705; Computer plays back sequence of clues including sound and visual cue for each button
+* &#x2705; Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* &#x2705; User wins the game after guessing a complete pattern
+* &#x2705; User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+* &#x2705; Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* &#x2705; Buttons use a pitch (frequency) other than the ones in the tutorial
+* &#x2705; More than 4 functional game buttons
+* &#x2705; Playback speeds up on each turn
+* &#x2705; Computer picks a different pattern each time the game is played
+* &#x2705; Player only loses after 3 mistakes (instead of on the first mistake)
+* &#x2705; Game button appearance change goes beyond color (e.g. add an image)
+* &#x2705; Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
