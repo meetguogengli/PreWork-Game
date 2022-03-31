@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](<img src = "http://g.recordit.co/m1MZTmHZhh.gif" width = 400><br>)
-![](<img src = "http://g.recordit.co/8UNTWEm8xp.gif" width = 400><br>)
+(<img src = "http://g.recordit.co/8UNTWEm8xp.gif" width = 400><br>)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
