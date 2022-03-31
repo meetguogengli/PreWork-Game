@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](<img src = "http://g.recordit.co/m1MZTmHZhh.gif"><br>)
-![](http://g.recordit.co/8UNTWEm8xp.gif)
+![](<img src = "http://g.recordit.co/m1MZTmHZhh.gif" width = 400><br>)
+![](http://g.recordit.co/8UNTWEm8xp.gif width = 400)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
