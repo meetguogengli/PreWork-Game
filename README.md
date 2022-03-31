@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:<br>
+<br>
 Player wins the Game!<br>
 <img src = "http://g.recordit.co/m1MZTmHZhh.gif" width = 400><br>
 Player loses the Game 3 times in a row!<br>
