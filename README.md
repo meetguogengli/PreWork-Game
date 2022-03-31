@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 * [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. <br>
-*  &#x2705; Game buttons each light up and play a sound when clicked. 
+* [&#x2705;] Game buttons each light up and play a sound when clicked. 
 * [ ] Computer plays back sequence of clues including sound and visual cue for each button
 * [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
 * [ ] User wins the game after guessing a complete pattern
