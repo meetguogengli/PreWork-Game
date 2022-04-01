@@ -50,7 +50,7 @@ Player loses the Game 3 times in a row!<br>
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <br>
 https://www.w3schools.com/tags/tag_img.asp <br>
 https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random <br>
-
+https://programminghead.com/how-to-play-audio-in-html-using-javascript/
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 
