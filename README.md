@@ -66,8 +66,17 @@ during some online shopping festivals, such as Black Friday? How do they handle
 that with the reduced cost? And what to do if the website crashes or becomes
 inaccessible when they experience large traffic?
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) <br>
+If I had more time, I would consider more features. Such as the interactivity of the
+gaming experience. From my gaming experience, the gaming experience I enjoy the
+most is with my best friends, not myself stay at home and play games. So if we
+can build the interactivity of this Light & Sound Memory game, for example, we
+can allow two users to participate in the game together, let the first user
+issue instructions in front. And then let the second user to follow. This would
+be just like a teacher taught you to play the piano when you were a child and
+you imitated the teacher's motions. In addition, we can also add some creative
+features. For example, we can use these buttons with different sounds to create
+some songs and then share our creations with friends.
 
 
 
