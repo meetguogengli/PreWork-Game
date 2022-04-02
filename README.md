@@ -52,7 +52,28 @@ https://www.w3schools.com/tags/tag_img.asp <br>
 https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random <br>
 https://programminghead.com/how-to-play-audio-in-html-using-javascript/
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+<br>
+My first few features in this project went really well until the 5th optional
+feature “Spruce up your buttons”. Since I had no previous HTML development
+experience, I had no idea where to start at first. But I was not discouraged
+and tried my best to learn from recommended readings and google the issues I confronted with. 
+After I read the recommended post, I began to have a clue and attempted to
+insert an image into a button first, if successful, then other buttons can just
+repeat the same thing. What makes me very happy is that the first button
+successfully inserted the picture quickly, but it did not hide at the
+beginning, then I started a long time to google search how to insert a background
+image for the button and also set the image to hidden mode before the button was clicked.
+Then I googled how to response the button to background image after being clicked.
+Some part of the issues were hard to debug, so I I also tried to learn demo on YouTube. 
+Then I start to make some draft to hide the inserted image of the button, after
+trying many times, it finally succeeded! When I thought that this feature could
+be solved by copying the same thing to other buttons, unfortunately, some bugs
+showed up. When I inserted different background images for other buttons, There
+are some bugs in the previous button which are when I click the previous
+button, the inserted picture of the last button is always displayed. After
+carefully debugging, I found that there is a function call that is
+asynchronized on each button. Then I quickly fix the bug and thoroughly test
+this feature.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <br>
 In this web development, I felt the fast-paced of front-end development with the outcomes
