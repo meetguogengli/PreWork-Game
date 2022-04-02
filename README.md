@@ -54,8 +54,17 @@ https://programminghead.com/how-to-play-audio-in-html-using-javascript/
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <br>
+In this web development, I felt the fast-paced of front-end development with the outcomes
+that are user-driven and Offer real-time programming. But I’m pretty curious
+about how to optimize loading webpage faster? Does the webpage also convert the
+front-end high-level code like HTML and Javascript to assembly code and then
+convert the assembly code to binary code? Since I think running the binary code
+will greatly improve the loading speed. And I’m also curious about how do large
+Web sites handle a load of millions of visitors simultaneously, especially
+during some online shopping festivals, such as Black Friday? How do they handle
+that with the reduced cost? And what to do if the website crashes or becomes
+inaccessible when they experience large traffic?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
