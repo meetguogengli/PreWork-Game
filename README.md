@@ -51,8 +51,7 @@ Player loses the Game 3 times in a row!<br>
 https://www.w3schools.com/tags/tag_img.asp <br>
 https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random <br>
 https://programminghead.com/how-to-play-audio-in-html-using-javascript/
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-<br>
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) <br>
 My first few features in this project went really well until the 5th optional
 feature “Spruce up your buttons”. Since I had no previous HTML development
 experience, I had no idea where to start at first. But I was not discouraged
